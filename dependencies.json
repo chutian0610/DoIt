@@ -3,7 +3,7 @@
     "dependencies": [
         {
             "name": "twikoo",
-            "version": "1.7.7",
+            "version": "1.7.11",
             "files": [
                 {
                     "remote": "dist/twikoo.all.min.js",
@@ -17,7 +17,7 @@
         },
         {
             "name": "@waline/client",
-            "version": "3.13.0",
+            "version": "3.15.0",
             "files": [
                 {
                     "remote": "dist/waline.css",
@@ -31,7 +31,7 @@
         },
         {
             "name": "katex",
-            "version": "0.16.45",
+            "version": "0.17.0",
             "files": [
                 {
                     "remote": "dist/katex.min.js",
@@ -57,7 +57,7 @@
         },
         {
             "name": "echarts",
-            "version": "6.0.0",
+            "version": "6.1.0",
             "files": [
                 {
                     "remote": "dist/echarts.min.js",
